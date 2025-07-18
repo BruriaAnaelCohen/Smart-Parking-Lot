@@ -4,7 +4,8 @@ Physical Smart-Parking-Lot System using ARDUINO UNO board
 🚗 Smart Parking Log (Arduino Uno)
 An interactive Smart Parking Lot system using Arduino Uno, built to detect vehicle presence, manage gate access, track parking duration, and calculate payment — all with a touch screen interface and real-time clock.
 
-🧠 System Features
+## 🧠 System Features
+
 🟢 Initialize System – Sets all parking spots to free, LEDs turn green.
 
 🚘 Vehicle Detection – Ultrasonic sensor opens the gate automatically when a car approaches and there's space.
