@@ -1,5 +1,5 @@
 # 🚗 Smart-Parking-Lot
-Physical Smart-Parking-Lot System using ARDUINO UNO board
+Smart-Parking-Lot System using ARDUINO UNO board
 
 🚗 Smart Parking Log (Arduino Uno)
 An interactive Smart Parking Lot system using Arduino Uno, built to detect vehicle presence, manage gate access, track parking duration, and calculate payment — all with a touch screen interface and real-time clock.
