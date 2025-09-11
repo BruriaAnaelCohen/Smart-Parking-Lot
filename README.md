@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚗 Smart-Parking-Lot
 Smart-Parking-Lot System using ARDUINO UNO board
 
@@ -92,4 +91,3 @@ RTC DS1307 (Real Time Clock)
 TFT Touchscreen (ILI9341)
 
 RGB LEDs (Red/Green per parking spot)
->>>>>>> 2a4f974 (Uploading)
