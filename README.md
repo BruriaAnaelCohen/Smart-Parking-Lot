@@ -43,3 +43,5 @@ RTC DS1307 (Real Time Clock)
 TFT Touchscreen (ILI9341)
 
 RGB LEDs (Red/Green per parking spot)
+
+Do not forget to place the libraries here C:\Users\user_name\מסמכים\Arduino
