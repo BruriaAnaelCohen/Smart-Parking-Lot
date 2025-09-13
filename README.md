@@ -44,8 +44,9 @@ TFT Touchscreen (ILI9341)
 
 RGB LEDs (Red/Green per parking spot)
 
-###Set Up
+### Set Up
 
 Do not forget to place the libraries folder here **C:\Users\user_name\מסמכים\Arduino**
+
 
 
