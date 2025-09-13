@@ -27,7 +27,7 @@ Touchscreen UI – Displays status, buttons for actions, and payment info.
 
 RTC Module – Accurate tracking of parking durations.
 
-### At End of day: Total profit shown when parking is closed
+**At End of day: Total profit shown when parking is closed**
 
 ## 🔧 Components Used
 Arduino Uno
@@ -45,3 +45,4 @@ TFT Touchscreen (ILI9341)
 RGB LEDs (Red/Green per parking spot)
 
 Do not forget to place the libraries folder here **C:\Users\user_name\מסמכים\Arduino**
+
